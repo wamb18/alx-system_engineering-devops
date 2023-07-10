@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type -not -name | wc
+find . -type -not -name | wC
